@@ -6,5 +6,5 @@ applications:
 - services:
   - insights-weather-weatherinsights
   name: insights-weather
-  host: insights-weather
+  host: insights-weather-sh
   memory: 256M
